@@ -1,11 +1,9 @@
-
+import Chai from "./Chai.jsx";
 
 function App() {
 
   return (
-     <h1>
-      Hello Gagan   
-     </h1>
+    <Chai/>
   )
 }
 
